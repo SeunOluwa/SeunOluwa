@@ -2,7 +2,7 @@ Hi 👋 My name is Oluwaseun Taiwo
 
 Backend Developer
 
-🌍  I'm based in Nigeria
+🌍  I'm based in Lagos, Nigeria
 ✉️  You can contact me at taiwoluwaseun8@gmail.com
 
 Skills:
