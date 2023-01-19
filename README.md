@@ -5,5 +5,5 @@ Backend Developer
 🌍  I'm based in Nigeria
 ✉️  You can contact me at taiwoluwaseun8@gmail.com
 
-Skills
+Skills:
 JavaScript HTML5 CSS3 NodeJS Express Prisma Sequelize PostgreSQL Heroku MongoDB Typescript
